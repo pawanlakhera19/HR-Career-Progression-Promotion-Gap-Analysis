@@ -99,14 +99,14 @@ All pages are cross-filtered using synced Department and Job Role slicers.
 - `Palo_Alto_Networks_HR_Dashboard.pbix` — Power BI dashboard file
 - `Palo_Alto_Networks.csv` — Source dataset
 - `Palo_Alto_Networks- Research_Paper.pdf` — Full EDA, methodology, and recommendations writeup
-- `screenshots/` — Dashboard page previews
+- `Palo_Alto_Networks.Pdf - Dashboard page previews
 
 ---
 
 ## Author
 
 **Pawan Kumar Lakhera**
-Aspiring Data Analyst | Power BI · SQL · Python
+Aspiring - Data Analyst | Power BI · SQL · Python
 #https://www.linkedin.com/in/pawan-lakhera-738429174/ 
 
 ---
