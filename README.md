@@ -96,10 +96,10 @@ All pages are cross-filtered using synced Department and Job Role slicers.
 
 ## Repository Contents
 
-- `Palo_Alto_Networks_HR_Dashboard.pbix` — Power BI dashboard file
+- `Palo_Alto Dashboard.pbix` — Power BI dashboard file
 - `Palo_Alto_Networks.csv` — Source dataset
 - `Palo_Alto_Networks- Research_Paper.pdf` — Full EDA, methodology, and recommendations writeup
-- `Palo_Alto_Networks.Pdf - Dashboard page previews
+- `Palo_Alto dashboard.Pdf - Dashboard page previews
 
 ---
 
