@@ -14,7 +14,7 @@ This project addresses that gap by building a **career trajectory intelligence d
 
 ## Dataset
 
-- **Source:** IBM HR Analytics Employee Attrition dataset (provided via Unified Mentor, framed for Palo Alto Networks)
+- **Source:** HR Analytics Employee Attrition dataset (provided via Unified Mentor)
 - **Size:** 1,470 employee records, 31 original fields
 - **Attrition Rate:** 16.12%
 - **Data Quality:** No missing values; cleaned and validated in Power Query
@@ -66,11 +66,11 @@ Each flagged employee is automatically mapped to a recommended intervention: **T
 
 ## Dashboard Pages
 
-1. **Executive Overview** — Organization-wide KPIs, department-level attrition, cluster distribution
-2. **Career Path Clustering Dashboard** — Cluster distribution, scatter analysis, cluster profile matrix
-3. **Promotion Gap Monitor** — Department × Role promotion-gap heatmap, high-gap employee list
-4. **Retention Opportunity Panel** — Flagged employees and suggested actions by department
-5. **Managerial Insight Dashboard** — Manager stability vs. role stagnation, team-level stability overview
+1. **Executive Overview** — KPIs, department-level attrition, cluster distribution, employees distribution, slicers (department, attrition status, job role, promotion gap score)
+2. **Career Path Clustering** — Cluster distribution, scatter analysis, cluster profile matrix
+3. **Promotion Gap Monitor** — KPI's, Department × Role promotion-gap heatmap, high-gap employee list, Avg Years Since Last Promotion by Job Role
+4. **Retention Opportunity Panel** — KPI's, Retention Opportunity, Flagged employees and suggested actions by department
+5. **Managerial Insight** — KPI's, Manager stability, role stagnation, team-level stability overview
 
 All pages are cross-filtered using synced Department and Job Role slicers.
 
@@ -100,6 +100,7 @@ All pages are cross-filtered using synced Department and Job Role slicers.
 - `Palo_Alto_Networks.csv` — Source dataset
 - `Palo_alto_network Research paper.pdf` — Full EDA, methodology, and recommendations writeup
 - `Palo_Alto dashboard.Pdf - Dashboard page previews
+- `Palo_Alto dashboard.Pdf- Executive summary for government stakeholders
 
 ---
 
