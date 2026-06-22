@@ -98,7 +98,7 @@ All pages are cross-filtered using synced Department and Job Role slicers.
 
 - `Palo_Alto Dashboard.pbix` — Power BI dashboard file
 - `Palo_Alto_Networks.csv` — Source dataset
-- `Palo_Alto_Networks- Research_Paper.pdf` — Full EDA, methodology, and recommendations writeup
+- `Palo_alto_network Research paper.pdf` — Full EDA, methodology, and recommendations writeup
 - `Palo_Alto dashboard.Pdf - Dashboard page previews
 
 ---
