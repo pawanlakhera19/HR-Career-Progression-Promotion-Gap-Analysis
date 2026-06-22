@@ -1,5 +1,4 @@
 # Career Progression and Promotion Gap Analysis for Retention Optimization at Palo Alto Networks
-
 A Power BI analytics project that moves beyond traditional attrition prediction to explain *why* employees disengage — by uncovering promotion stagnation, role stagnation, and career trajectory patterns. Built as part of the Unified Mentor Data Analytics program.
 
 ---
