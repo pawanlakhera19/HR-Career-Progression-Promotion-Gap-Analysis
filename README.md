@@ -100,7 +100,7 @@ All pages are cross-filtered using synced Department and Job Role slicers.
 - `Palo_alto_network Research paper.pdf` — Full EDA, methodology, and recommendations writeup
 - `Palo_Alto dashboard.Pdf - Dashboard page previews
 - `Palo_Alto dashboard.Pdf- Executive summary for government stakeholders
-- app.py
+- app.py- check web link- https://yxk2gxsfqvlanpekg2tqqd.streamlit.app/
 - requirements.txt
 
 ---
